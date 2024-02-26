@@ -4,10 +4,8 @@ Basic Statistics is a Java-based implementation for computing statistics on a se
 This implementation is intended to be used in software engineering courses as
 a subject software system.
 
-# Testing reset functionality
-
-# Now making more changes to the README that I will commit
-# Then I will push
+# Testing reset functionality once more
+# Adding another commit and will push
 
 Note for graders: I had to create a new commit to push on readme
 
