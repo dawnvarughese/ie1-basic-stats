@@ -6,7 +6,11 @@ a subject software system.
 
 # Testing reset functionality
 
-# Now making more changes to the README that I will commit AND push
+# Now making more changes to the README that I will commit
+# Then I will push
+
+Note for graders: I had to create a new commit to push on readme
+
 Basic Statistics uses the Apache Ant build system. **Make sure that you have [Ant](https://ant.apache.org) installed.**
 
 #### How to build Basic Statistics and run its tests from the terminal:
